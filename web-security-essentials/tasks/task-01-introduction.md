@@ -1,10 +1,3 @@
 # Task 1 — Introduction
 
-## Answer
-
-
-## Notes
-
-
-## References
-
+No answer required.
