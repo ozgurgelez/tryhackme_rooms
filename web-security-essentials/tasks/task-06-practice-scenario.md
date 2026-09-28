@@ -1,10 +1,10 @@
 # Task 6 — Practice Scenario
 
-## Answer
+1. **What flag did you receive for securing the Web Application?**  
+   `THM{web_app_secured!}`
 
+2. **What flag did you receive for securing the Web Server?**  
+   `THM{server_security_expert!}`
 
-## Notes
-
-
-## References
-
+3. **What flag did you receive for securing the Host Machine?**  
+   `THM{the_final_security_layer!}`
